@@ -1,0 +1,15 @@
+{
+    "name": "vgspedro/foregroundbackgroundcolorgenerator",
+    "type": "library",
+    "description": "Good readabilitym font and background color generator",
+    "keywords": ["colors", "composer", "package"],
+    "homepage": "https://darioviegas.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Viegas",
+            "email": "vgspedro@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
